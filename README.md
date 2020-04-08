@@ -17,7 +17,7 @@ intuition, feeling, and perceiving (the right-hand types in the list above). Que
 indicated by a response of "-".
 
 - here is a sample input file (personality.txt)
-![personalitySampleImage01](images/personalitySampleImage01.png)
+![input sample](images/personalitySampleImage01.PNG)
 
 
 - The 70 questions in the Keirsey test are organized in ten groups of seven questions each. The first question
@@ -40,7 +40,7 @@ See the sample output file below for the specific format.
 
 - For example, consider the first person in the sample input file personality.txt, named Betty Boop.
 This person’s responses are as follows:
-![personalityType](images/personalityType.png)
+![personality Type](images/personalityType.PNG)
 
 - For each dimension, we count the total number of responses given, then determine the percentage of
 those responses that were "B". Based on this percentage, we assign the person to one side or the other of
@@ -65,7 +65,7 @@ responses would be 6/9 ≈ 67%, not 60%.
 See the sample input and output files for more examples.
 
 - Here is a output file sample
-![outputSample](images/outputSample.png)
+![output Sample](images/outputSample.PNG)
 
 
 
